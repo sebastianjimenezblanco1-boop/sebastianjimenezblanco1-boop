@@ -5,6 +5,7 @@ I am a student on the vocational software development course at the Universidad 
 [Mi linkdIn](https://www.linkedin.com/in/sebastian-david-jimenez-blanco-57b912259/)
 
 <img src="https://github.com/sebastianjimenezblanco1-boop/sebastianjimenezblanco1-boop/blob/main/WhatsApp%20Image%202026-04-25%20at%2010.38.42%20AM.jpeg?raw=true" width="200">
+
 # 💫 About Me:
 Python developer focused on Full Stack & Software Engineering. IEEE researcher with experience in Git, GitHub, AI, and Cybersecurity. Team leader with Agile mindset, Problem Solving, and Academic Research background. English B2.
 
