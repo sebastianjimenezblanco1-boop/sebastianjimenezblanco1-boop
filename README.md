@@ -4,7 +4,7 @@ Soy estudiante de tecnico profesional en desarrollo de software en la universida
 
 [Mi linkdIn](https://www.linkedin.com/in/sebastian-david-jimenez-blanco-57b912259/)
 
-![Mi linkdIn](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm3EBoOD-IVVX5iG622qvya3Rjbhz6pXkDEw&s)
+![Mi linkdIn](https://github.com/sebastianjimenezblanco1-boop/sebastianjimenezblanco1-boop/blob/main/WhatsApp%20Image%202026-04-25%20at%2010.38.42%20AM.jpeg?raw=true)
 ## Tecnologías que estoy aprendiendo
 
 - JavaScript
