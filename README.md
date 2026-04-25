@@ -1,6 +1,6 @@
-# Hola 👋
+# Hi there 👋
 
-Soy estudiante de tecnico profesional en desarrollo de software en la universidad de la costa (CUC) Barranquilla, Colombia
+I am a student on the vocational software development course at the Universidad de la Costa (CUC) in Barranquilla, Colombia
 
 [Mi linkdIn](https://www.linkedin.com/in/sebastian-david-jimenez-blanco-57b912259/)
 
