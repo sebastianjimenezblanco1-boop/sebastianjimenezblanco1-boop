@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi 👋
 
 I am a student on the vocational software development course at the Universidad de la Costa (CUC) in Barranquilla, Colombia
 
@@ -6,16 +6,16 @@ I am a student on the vocational software development course at the Universidad 
 
 <img src="https://github.com/sebastianjimenezblanco1-boop/sebastianjimenezblanco1-boop/blob/main/WhatsApp%20Image%202026-04-25%20at%2010.38.42%20AM.jpeg?raw=true" width="200">
 
-# 💫 About Me:
+# 💫 About Me
 Python developer focused on Full Stack & Software Engineering. IEEE researcher with experience in Git, GitHub, AI, and Cybersecurity. Team leader with Agile mindset, Problem Solving, and Academic Research background. English B2.
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastian-david-jimenez-blanco) 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=sebastianjimenezblanco1-boop&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sebastianjimenezblanco1-boop&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sebastianjimenezblanco1-boop&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
