@@ -19,6 +19,10 @@ Python developer focused on Full Stack & Software Engineering. IEEE researcher w
 ![](https://github-readme-stats.shion.dev/api?username=sebastianjimenezblanco1-boop&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sebastianjimenezblanco1-boop&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sebastianjimenezblanco1-boop&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Most Used Lenguages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianjimenezblanco1-boop)
+# Contributions Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=sebastianjimenezblanco1-boop)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
