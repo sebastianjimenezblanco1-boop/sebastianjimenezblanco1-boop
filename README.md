@@ -2,8 +2,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=00FF00&size=28&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Software+Engineering+Student;Always+Learning+New+Technologies">
 I am a student on the vocational software development course at the Universidad de la Costa (CUC) in Barranquilla, Colombia
 
-[Mi linkdIn](https://www.linkedin.com/in/sebastian-david-jimenez-blanco-57b912259/)
-
 <img src="https://github.com/sebastianjimenezblanco1-boop/sebastianjimenezblanco1-boop/blob/main/WhatsApp%20Image%202026-04-25%20at%2010.38.42%20AM.jpeg?raw=true" width="200">
 
 # 💫 About Me
