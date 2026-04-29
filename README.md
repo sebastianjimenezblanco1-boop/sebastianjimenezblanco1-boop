@@ -1,6 +1,5 @@
 # Hi 👾
-<img src="https://raw.githubusercontent.com/sebastianjimenezblanco1-boop/sebastianjimenezblanco1-boop/output/github-contribution-grid-snake.svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300D4FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Software+Engineering+Student;Always+Learning+New+Technologies">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%A300A3FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Software+Engineering+Student;Always+Learning+New+Technologies">
 I am a student on the vocational software development course at the Universidad de la Costa (CUC) in Barranquilla, Colombia
 
 [Mi linkdIn](https://www.linkedin.com/in/sebastian-david-jimenez-blanco-57b912259/)
