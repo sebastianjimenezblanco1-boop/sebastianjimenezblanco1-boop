@@ -1,4 +1,3 @@
-# Hi 👋
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300D4FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Software+Engineering+Student;Always+Learning+New+Technologies">
 I am a student on the vocational software development course at the Universidad de la Costa (CUC) in Barranquilla, Colombia
 
