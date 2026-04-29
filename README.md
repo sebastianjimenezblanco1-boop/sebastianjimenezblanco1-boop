@@ -1,5 +1,5 @@
 # Hi 👋
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300D4FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Software+Engineering+Student;Always+Learning+New+Technologies">
 I am a student on the vocational software development course at the Universidad de la Costa (CUC) in Barranquilla, Colombia
 
 [Mi linkdIn](https://www.linkedin.com/in/sebastian-david-jimenez-blanco-57b912259/)
@@ -19,10 +19,6 @@ Python developer focused on Full Stack & Software Engineering. IEEE researcher w
 ![](https://github-readme-stats.shion.dev/api?username=sebastianjimenezblanco1-boop&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=sebastianjimenezblanco1-boop&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sebastianjimenezblanco1-boop&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-# Most Used Lenguages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianjimenezblanco1-boop)
-# Contributions Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=sebastianjimenezblanco1-boop)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
